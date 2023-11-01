@@ -154,8 +154,8 @@ public class App {
 
             System.out.println("Tempos: \n" +
                     "Tempo de abastecimento da bomba 01 (GASOLINA): " + bomba_01 / 10 + " minutos\n" +
-                    "Tempo de abastecimento da bomba 02 (ETANOL): " + bomba_02 / 10 + " minutos\n" +
-                    "Tempo de abastecimento da bomba 02 (DIESEL): " + bomba_03 / 10 + " minutos\n" +
+                    "Tempo de abastecimento da bomba 02 (ETANOL): " + bomba_02 / 12 + " minutos\n" +
+                    "Tempo de abastecimento da bomba 02 (DIESEL): " + bomba_03 / 15 + " minutos\n" +
                     "Tempo de abastecimento da bomba 04 (GASOLINA): " + bomba_04 / 10 + " minutos\n");
 
             System.out.printf("Lucros: \n" +
