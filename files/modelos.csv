@@ -1,0 +1,9 @@
+Modelo;Consumo Etanol (Km/L);Consumo Gasolina (Km/L);Consumo Diesel (Km/L);Capacidade Tanque (L);
+FORD-KA;8,1;11,6;;55;
+CITROEN-C3;7,5;11,9;;47;
+RENAULT-CLIO;9,5;14,3;;50;
+AUDI-A1;;10,8;;45;
+AUDI-A4;;8,8;;65;
+GM-CELTA;;12,0;;40;
+FORD-FIESTA;8,0;10;;50;
+DODGE-RAM;2,0;4,0;10,1;70;
